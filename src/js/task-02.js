@@ -18,4 +18,3 @@ return liEl;
 });
 
 ingredientsEl.append(...elements)
-console.log(elements)
