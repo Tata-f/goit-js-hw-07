@@ -15,8 +15,6 @@ const images = [
 
 const galleryEl = document.querySelector("#gallery");
 
-console.log(galleryEl);
-
 const makeGalleryMarkup = ({ url, alt }) => {
   return `
   <li>
